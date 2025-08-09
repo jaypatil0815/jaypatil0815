@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**jaypatil0815/jaypatil0815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Jay Patil! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+Javascript, HTML, CSS...
+
+
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on my Major Project = From Data to Deployment: A Sentiment Analysis Project Using MLOps Principles
+
+🧠 I'm currently learning React and soon Typescript
+
+
+## Feedback
+
+If you have any feedback, please reach out to me at joyboyjp.1512@gamil.com
+
